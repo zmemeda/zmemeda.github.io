@@ -148,7 +148,7 @@
     }
     
     // subtitle
-    var subtitleList = [
+   /* var subtitleList = [
         "“刚才你问我啊，我可以回答你一句‘无可奉告’。”——长者",
         "“你们媒体千万要记着，不要‘见得风，是得雨’。”——长者",
         "“连任也要按照香港的法律啊。”——长者",
@@ -165,5 +165,5 @@
         "“我今天是作为一个长者跟你们讲。我就讲中国有一句话叫‘闷声大发财’。”——长者"
     ];
     var i = Math.floor(Math.random() * subtitleList.length);
-    $('#subtitle').text(subtitleList[i]);
+    $('#subtitle').text(subtitleList[i]);*/
 })(jQuery);
